@@ -1,0 +1,6 @@
+{
+    "data": [
+        { "pk_sexo": 1, "sexo_descripcion": "FEMENINO" },
+        { "pk_sexo": 2, "sexo_descripcion": "MASCULINO" }
+    ]
+}

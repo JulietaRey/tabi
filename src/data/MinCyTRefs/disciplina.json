@@ -1,0 +1,2430 @@
+{
+    "data": [
+        {
+            "area_descripcion": "Matemáticas",
+            "area_codigo": 1.1,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 111.0,
+            "disciplina_descripcion": "Matemática Pura",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 4,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Matemáticas",
+            "area_codigo": 1.1,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 112.0,
+            "disciplina_descripcion": "Matemática Aplicada",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 5,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Matemáticas",
+            "area_codigo": 1.1,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 113.0,
+            "disciplina_descripcion": "Estadística y Probabilidad",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 6,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias de la Computación e Información",
+            "area_codigo": 1.2,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 121.0,
+            "disciplina_descripcion": "Ciencias de la Computación",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 8,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias de la Computación e Información",
+            "area_codigo": 1.2,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 122.0,
+            "disciplina_descripcion": "Ciencias de la Información y Bioinformática (desarrollo de hardware va en 2.2 \"Ingeniería Eléctrica, Electrónica y de Información\" y los aspectos sociales van en 5.8 \"Comunicación y Medios\")",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 9,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias Físicas",
+            "area_codigo": 1.3,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 131.0,
+            "disciplina_descripcion": "Física Atómica, Molecular y Química (física de átomos y moléculas incluyendo colisión, interacción con radiación, resonancia magnética, Moessbauer Efecto.)",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 11,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias Físicas",
+            "area_codigo": 1.3,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 132.0,
+            "disciplina_descripcion": "Física de los Materiales Condensados",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 12,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias Físicas",
+            "area_codigo": 1.3,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 133.0,
+            "disciplina_descripcion": "Física de Partículas y Campos",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 13,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias Físicas",
+            "area_codigo": 1.3,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 134.0,
+            "disciplina_descripcion": "Física Nuclear",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 14,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias Físicas",
+            "area_codigo": 1.3,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 135.0,
+            "disciplina_descripcion": "Física de los Fluidos y Plasma",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 15,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias Físicas",
+            "area_codigo": 1.3,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 136.0,
+            "disciplina_descripcion": "Óptica (incluida Óptica Láser y Óptica Cuántica), Acústica",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 16,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias Físicas",
+            "area_codigo": 1.3,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 137.0,
+            "disciplina_descripcion": "Astronomía (incluye Astrofísica y Ciencias del Espacio)",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 17,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias Químicas",
+            "area_codigo": 1.4,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 141.0,
+            "disciplina_descripcion": "Química Orgánica",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 19,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias Químicas",
+            "area_codigo": 1.4,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 142.0,
+            "disciplina_descripcion": "Química Inorgánica y Nuclear",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 20,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias Químicas",
+            "area_codigo": 1.4,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 143.0,
+            "disciplina_descripcion": "Físico-Química, Ciencia de los Polímeros, Electroquímica",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 21,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias Químicas",
+            "area_codigo": 1.4,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 144.0,
+            "disciplina_descripcion": "Química Coloidal",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 22,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias Químicas",
+            "area_codigo": 1.4,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 145.0,
+            "disciplina_descripcion": "Química Analítica",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 23,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias de la Tierra y relacionadas con el Medio Ambiente",
+            "area_codigo": 1.5,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 151.0,
+            "disciplina_descripcion": "Geociencias multidisciplinaria",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 25,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias de la Tierra y relacionadas con el Medio Ambiente",
+            "area_codigo": 1.5,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 152.0,
+            "disciplina_descripcion": "Mineralogía",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 26,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias de la Tierra y relacionadas con el Medio Ambiente",
+            "area_codigo": 1.5,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 153.0,
+            "disciplina_descripcion": "Paleontología",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 27,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias de la Tierra y relacionadas con el Medio Ambiente",
+            "area_codigo": 1.5,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 154.0,
+            "disciplina_descripcion": "Geoquímica y Geofísica",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 28,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias de la Tierra y relacionadas con el Medio Ambiente",
+            "area_codigo": 1.5,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 155.0,
+            "disciplina_descripcion": "Geografía Física",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 29,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias de la Tierra y relacionadas con el Medio Ambiente",
+            "area_codigo": 1.5,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 156.0,
+            "disciplina_descripcion": "Geología",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 30,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias de la Tierra y relacionadas con el Medio Ambiente",
+            "area_codigo": 1.5,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 157.0,
+            "disciplina_descripcion": "Vulcanología",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 31,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias de la Tierra y relacionadas con el Medio Ambiente",
+            "area_codigo": 1.5,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 158.0,
+            "disciplina_descripcion": "Ciencias Medioambientales (los aspectos sociales van en 5.7 \"Geografía Económica y Social\"",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 32,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias de la Tierra y relacionadas con el Medio Ambiente",
+            "area_codigo": 1.5,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 159.0,
+            "disciplina_descripcion": "Meteorología y Ciencias Atmosféricas",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 33,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias de la Tierra y relacionadas con el Medio Ambiente",
+            "area_codigo": 1.5,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 1510.0,
+            "disciplina_descripcion": "Investigación Climatológica",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 34,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias de la Tierra y relacionadas con el Medio Ambiente",
+            "area_codigo": 1.5,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 1511.0,
+            "disciplina_descripcion": "Oceanografía, Hidrología, Recursos Hídricos",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 35,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias Biológicas",
+            "area_codigo": 1.6,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 161.0,
+            "disciplina_descripcion": "Biología Celular, Microbiología",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 37,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias Biológicas",
+            "area_codigo": 1.6,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 162.0,
+            "disciplina_descripcion": "Virología",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 38,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias Biológicas",
+            "area_codigo": 1.6,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 163.0,
+            "disciplina_descripcion": "Bioquímica y Biología Molecular (ídem 3.1.10)",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 39,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias Biológicas",
+            "area_codigo": 1.6,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 164.0,
+            "disciplina_descripcion": "Métodos de Investigación en Bioquímica",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 40,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias Biológicas",
+            "area_codigo": 1.6,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 165.0,
+            "disciplina_descripcion": "Micología",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 41,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias Biológicas",
+            "area_codigo": 1.6,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 166.0,
+            "disciplina_descripcion": "Biofísica",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 42,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias Biológicas",
+            "area_codigo": 1.6,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 167.0,
+            "disciplina_descripcion": "Genética y Herencia (Genética Médica va en 3 \"Ciencias Médicas y de la Salud\u201D)",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 43,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias Biológicas",
+            "area_codigo": 1.6,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 168.0,
+            "disciplina_descripcion": "Biología Reproductiva (aspectos médicos van en 3 \"Ciencias Médicas y de la Hídrico Salud\")",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 44,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias Biológicas",
+            "area_codigo": 1.6,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 169.0,
+            "disciplina_descripcion": "Biología del Desarrollo",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 45,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias Biológicas",
+            "area_codigo": 1.6,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 1610.0,
+            "disciplina_descripcion": "Ciencias de las Plantas, Botánica",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 46,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias Biológicas",
+            "area_codigo": 1.6,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 1611.0,
+            "disciplina_descripcion": "Zoología, Ornitología, Entomología, Etología",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 47,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias Biológicas",
+            "area_codigo": 1.6,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 1612.0,
+            "disciplina_descripcion": "Biología Marina, Limnología",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 48,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias Biológicas",
+            "area_codigo": 1.6,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 1613.0,
+            "disciplina_descripcion": "Ecología",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 49,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias Biológicas",
+            "area_codigo": 1.6,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 1614.0,
+            "disciplina_descripcion": "Conservación de la Biodiversidad",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 50,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias Biológicas",
+            "area_codigo": 1.6,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 1615.0,
+            "disciplina_descripcion": "Biología (teórica, matemática, térmica, criobiología, ritmos biológicos), Biología Evolutiva",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 51,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias Biológicas",
+            "area_codigo": 1.6,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 1616.0,
+            "disciplina_descripcion": "Otros Tópicos Biológicos",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 52,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ingeniería Civil",
+            "area_codigo": 2.1,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 211.0,
+            "disciplina_descripcion": "Ingeniería Civil",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 56,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ingeniería Civil",
+            "area_codigo": 2.1,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 212.0,
+            "disciplina_descripcion": "Ingeniería Arquitectónica",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 57,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ingeniería Civil",
+            "area_codigo": 2.1,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 213.0,
+            "disciplina_descripcion": "Ingeniería de la Construcción",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 58,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ingeniería Civil",
+            "area_codigo": 2.1,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 214.0,
+            "disciplina_descripcion": "Ingeniería Estructural",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 59,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ingeniería Civil",
+            "area_codigo": 2.1,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 215.0,
+            "disciplina_descripcion": "Ingeniería del Transporte",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 60,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ingeniería Eléctrica, Ingeniería Electrónica e Ingeniería de la Información",
+            "area_codigo": 2.2,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 221.0,
+            "disciplina_descripcion": "Ingeniería Eléctrica y Electrónica",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 62,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ingeniería Eléctrica, Ingeniería Electrónica e Ingeniería de la Información",
+            "area_codigo": 2.2,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 222.0,
+            "disciplina_descripcion": "Control Automático y Robótica",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 63,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ingeniería Eléctrica, Ingeniería Electrónica e Ingeniería de la Información",
+            "area_codigo": 2.2,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 223.0,
+            "disciplina_descripcion": "Sistemas de Automatización y Control",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 64,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ingeniería Eléctrica, Ingeniería Electrónica e Ingeniería de la Información",
+            "area_codigo": 2.2,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 224.0,
+            "disciplina_descripcion": "Ingeniería de Sistemas y Comunicaciones",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 65,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ingeniería Eléctrica, Ingeniería Electrónica e Ingeniería de la Información",
+            "area_codigo": 2.2,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 225.0,
+            "disciplina_descripcion": "Telecomunicaciones",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 66,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ingeniería Eléctrica, Ingeniería Electrónica e Ingeniería de la Información",
+            "area_codigo": 2.2,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 226.0,
+            "disciplina_descripcion": "Hardware y Arquitectura de Computadoras",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 67,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ingeniería Mecánica",
+            "area_codigo": 2.3,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 231.0,
+            "disciplina_descripcion": "Ingeniería Mecánica",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 69,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ingeniería Mecánica",
+            "area_codigo": 2.3,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 232.0,
+            "disciplina_descripcion": "Mecánica Aplicada",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 70,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ingeniería Mecánica",
+            "area_codigo": 2.3,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 233.0,
+            "disciplina_descripcion": "Termodinámica",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 71,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ingeniería Mecánica",
+            "area_codigo": 2.3,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 234.0,
+            "disciplina_descripcion": "Ingeniería Aeroespacial",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 72,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ingeniería Mecánica",
+            "area_codigo": 2.3,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 235.0,
+            "disciplina_descripcion": "Ingeniería Nuclear (Física Nuclear va en 1.3 \"Ciencias Físicas\")",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 73,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ingeniería Mecánica",
+            "area_codigo": 2.3,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 236.0,
+            "disciplina_descripcion": "Ingeniería de Audio, Análisis de Confiabilidad",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 74,
+            "stem": "true"
+        },
+
+        {
+            "area_descripcion": "Ingeniería Química",
+            "area_codigo": 2.4,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 241.0,
+            "disciplina_descripcion": "Ingeniería Química (plantas, productos)",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 76,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ingeniería Química",
+            "area_codigo": 2.4,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 242.0,
+            "disciplina_descripcion": "Ingeniería de Procesos Químicos",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 77,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ingeniería de los Materiales",
+            "area_codigo": 2.5,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 251.0,
+            "disciplina_descripcion": "Ingeniería de los Materiales",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 79,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ingeniería de los Materiales",
+            "area_codigo": 2.5,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 252.0,
+            "disciplina_descripcion": "Cerámicos",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 80,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ingeniería de los Materiales",
+            "area_codigo": 2.5,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 253.0,
+            "disciplina_descripcion": "Recubrimientos y Películas",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 81,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ingeniería de los Materiales",
+            "area_codigo": 2.5,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 254.0,
+            "disciplina_descripcion": "Compuestos (incluye laminados, plásticos reforzados, fibras naturales y sintéticas combinadas, etc.)",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 82,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ingeniería de los Materiales",
+            "area_codigo": 2.5,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 255.0,
+            "disciplina_descripcion": "Papel y Madera",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 83,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ingeniería de los Materiales",
+            "area_codigo": 2.5,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 256.0,
+            "disciplina_descripcion": "Textiles (incluye tintas sintéticas, colores y fibras, pero los materiales en nanoescala van en 2.10 \"Nanotecnología\" y los biomateriales en 2.9 \"Biotecnología Industrial\")",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 84,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ingeniería Médica",
+            "area_codigo": 2.6,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 261.0,
+            "disciplina_descripcion": "Ingeniería Médica",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 86,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ingeniería Médica",
+            "area_codigo": 2.6,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 262.0,
+            "disciplina_descripcion": "Tecnología de Laboratorios Médicos (incluye el análisis de muestras de laboratorio y diagnósticos tecnológicos, los biomateriales van en \"Biotecnología Industrial\")",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 87,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ingeniería del Medio Ambiente",
+            "area_codigo": 2.7,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 271.0,
+            "disciplina_descripcion": "Ingeniería Medioambiental y Geológica, Geotécnicas",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 89,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ingeniería del Medio Ambiente",
+            "area_codigo": 2.7,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 272.0,
+            "disciplina_descripcion": "Ingeniería del Petróleo, Energía y Combustibles",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 90,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ingeniería del Medio Ambiente",
+            "area_codigo": 2.7,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 273.0,
+            "disciplina_descripcion": "Sensores Remotos",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 91,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ingeniería del Medio Ambiente",
+            "area_codigo": 2.7,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 274.0,
+            "disciplina_descripcion": "Minería y Procesamiento Mineral",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 92,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ingeniería del Medio Ambiente",
+            "area_codigo": 2.7,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 275.0,
+            "disciplina_descripcion": "Ingeniería Marina, Ingeniería Naval",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 93,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ingeniería del Medio Ambiente",
+            "area_codigo": 2.7,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 276.0,
+            "disciplina_descripcion": "Ingeniería Oceanográfica",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 94,
+            "stem": "true"
+        },
+
+        {
+            "area_descripcion": "Biotecnología del Medio Ambiente",
+            "area_codigo": 2.8,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 281.0,
+            "disciplina_descripcion": "Biotecnología Medioambiental",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 96,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Biotecnología del Medio Ambiente",
+            "area_codigo": 2.8,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 282.0,
+            "disciplina_descripcion": "Bioremediación, Diagnóstico Biotecnológico en Gestión Medioambiental (chips de ADN y aparatos de biodetección)",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 97,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Biotecnología del Medio Ambiente",
+            "area_codigo": 2.8,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 283.0,
+            "disciplina_descripcion": "Ética relacionada con Biotecnología Medioambiental",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 98,
+            "stem": "true"
+        },
+
+        {
+            "area_descripcion": "Biotecnología Industrial",
+            "area_codigo": 2.9,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 291.0,
+            "disciplina_descripcion": "Biotecnología Industrial",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 100,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Biotecnología Industrial",
+            "area_codigo": 2.9,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 292.0,
+            "disciplina_descripcion": "Bioprocesamiento Tecnológico, Biocatálisis, Fermentación",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 101,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Biotecnología Industrial",
+            "area_codigo": 2.9,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 293.0,
+            "disciplina_descripcion": "Bioproductos, Biomateriales, Bioplásticos, Biocombustibles, Bioderivados, etc.",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 102,
+            "stem": "true"
+        },
+
+        {
+            "area_descripcion": "Nanotecnología",
+            "area_codigo": 2.1,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 2101.0,
+            "disciplina_descripcion": "Nano-materiales (producción y propiedades)",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 104,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Nanotecnología",
+            "area_codigo": 2.1,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 2102.0,
+            "disciplina_descripcion": "Nano-procesamiento (aplicaciones en nanoescala, los biomateriales van en 2.9 \"Biotecnología Industrial\")",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 105,
+            "stem": "true"
+        },
+
+        {
+            "area_descripcion": "Otras Ingenierías y Tecnologías",
+            "area_codigo": 2.11,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 2111.0,
+            "disciplina_descripcion": "Alimentos y Bebidas",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 306,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Otras Ingenierías y Tecnologías",
+            "area_codigo": 2.11,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 2112.0,
+            "disciplina_descripcion": "Otras Ingenierías y Tecnologías",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 307,
+            "stem": "true"
+        },
+
+        {
+            "area_descripcion": "Medicina Básica",
+            "area_codigo": 3.1,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 311.0,
+            "disciplina_descripcion": "Anatomía y Morfología (las Ciencias de las Plantas van en 1.6 \"Ciencias Biológicas\"",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 111,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Medicina Básica",
+            "area_codigo": 3.1,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 312.0,
+            "disciplina_descripcion": "Genética Humana",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 112,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Medicina Básica",
+            "area_codigo": 3.1,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 313.0,
+            "disciplina_descripcion": "Inmunología",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 113,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Medicina Básica",
+            "area_codigo": 3.1,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 314.0,
+            "disciplina_descripcion": "Neurociencias (incluye Psicofiosiología)",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 114,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Medicina Básica",
+            "area_codigo": 3.1,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 315.0,
+            "disciplina_descripcion": "Farmacología y Farmacia",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 115,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Medicina Básica",
+            "area_codigo": 3.1,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 316.0,
+            "disciplina_descripcion": "Medicina Química",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 116,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Medicina Básica",
+            "area_codigo": 3.1,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 317.0,
+            "disciplina_descripcion": "Toxicología",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 117,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Medicina Básica",
+            "area_codigo": 3.1,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 318.0,
+            "disciplina_descripcion": "Fisiología (incluye Citología)",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 118,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Medicina Básica",
+            "area_codigo": 3.1,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 319.0,
+            "disciplina_descripcion": "Patología",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 119,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Medicina Básica",
+            "area_codigo": 3.1,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 3110.0,
+            "disciplina_descripcion": "Bioquímica y Biología Molecular (ídem 1.6.3)",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 120,
+            "stem": "true"
+        },
+
+        {
+            "area_descripcion": "Medicina Clínica  ",
+            "area_codigo": 3.2,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 321.0,
+            "disciplina_descripcion": "Andrología",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 122,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Medicina Clínica  ",
+            "area_codigo": 3.2,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 322.0,
+            "disciplina_descripcion": "Obstetricia y Ginecología",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 123,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Medicina Clínica  ",
+            "area_codigo": 3.2,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 323.0,
+            "disciplina_descripcion": "Pediatría",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 124,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Medicina Clínica  ",
+            "area_codigo": 3.2,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 324.0,
+            "disciplina_descripcion": "Sistemas Cardíaco y Cardiovascular",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 125,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Medicina Clínica  ",
+            "area_codigo": 3.2,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 325.0,
+            "disciplina_descripcion": "Enfermedades Vasculares Periféricas",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 126,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Medicina Clínica  ",
+            "area_codigo": 3.2,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 326.0,
+            "disciplina_descripcion": "Hematología",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 127,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Medicina Clínica  ",
+            "area_codigo": 3.2,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 327.0,
+            "disciplina_descripcion": "Sistema Respiratorio",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 128,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Medicina Clínica  ",
+            "area_codigo": 3.2,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 328.0,
+            "disciplina_descripcion": "Medicina Critica y de Emergencia",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 129,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Medicina Clínica  ",
+            "area_codigo": 3.2,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 329.0,
+            "disciplina_descripcion": "Anestesiología",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 130,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Medicina Clínica  ",
+            "area_codigo": 3.2,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 3210.0,
+            "disciplina_descripcion": "Ortopedia",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 131,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Medicina Clínica  ",
+            "area_codigo": 3.2,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 3211.0,
+            "disciplina_descripcion": "Cirugía",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 132,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Medicina Clínica  ",
+            "area_codigo": 3.2,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 3212.0,
+            "disciplina_descripcion": "Radiología, Medicina Nuclear y Diagnóstico por Imágenes",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 133,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Medicina Clínica  ",
+            "area_codigo": 3.2,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 3213.0,
+            "disciplina_descripcion": "Transplantes",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 134,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Medicina Clínica  ",
+            "area_codigo": 3.2,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 3214.0,
+            "disciplina_descripcion": "Odontología, Medicina y Cirugía Oral",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 135,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Medicina Clínica  ",
+            "area_codigo": 3.2,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 3215.0,
+            "disciplina_descripcion": "Dermatología y Enfermedades Venéreas",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 136,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Medicina Clínica  ",
+            "area_codigo": 3.2,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 3216.0,
+            "disciplina_descripcion": "Alergias",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 137,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Medicina Clínica  ",
+            "area_codigo": 3.2,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 3217.0,
+            "disciplina_descripcion": "Reumatología",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 138,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Medicina Clínica  ",
+            "area_codigo": 3.2,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 3218.0,
+            "disciplina_descripcion": "Endocrinología y Metabolismo (incluye diabetes y hormonas)",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 139,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Medicina Clínica  ",
+            "area_codigo": 3.2,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 3219.0,
+            "disciplina_descripcion": "Gastroenterología y Hepatología",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 140,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Medicina Clínica  ",
+            "area_codigo": 3.2,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 3220.0,
+            "disciplina_descripcion": "Urología y Nefrología",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 141,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Medicina Clínica  ",
+            "area_codigo": 3.2,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 3221.0,
+            "disciplina_descripcion": "Oncología",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 142,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Medicina Clínica  ",
+            "area_codigo": 3.2,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 3222.0,
+            "disciplina_descripcion": "Oftalmología",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 143,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Medicina Clínica  ",
+            "area_codigo": 3.2,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 3223.0,
+            "disciplina_descripcion": "Otorrinolaringología",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 144,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Medicina Clínica  ",
+            "area_codigo": 3.2,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 3224.0,
+            "disciplina_descripcion": "Psiquiatría",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 145,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Medicina Clínica  ",
+            "area_codigo": 3.2,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 3225.0,
+            "disciplina_descripcion": "Neurología Clínica",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 146,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Medicina Clínica  ",
+            "area_codigo": 3.2,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 3226.0,
+            "disciplina_descripcion": "Geriatría y Gerontología",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 147,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Medicina Clínica  ",
+            "area_codigo": 3.2,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 3227.0,
+            "disciplina_descripcion": "Medicina General e Interna",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 148,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Medicina Clínica  ",
+            "area_codigo": 3.2,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 3228.0,
+            "disciplina_descripcion": "Otros tipos de Medicina Clínica",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 149,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Medicina Clínica  ",
+            "area_codigo": 3.2,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 3229.0,
+            "disciplina_descripcion": "Medicina Integral y Complementaria (Sistema de Prácticas Alternativas)",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 150,
+            "stem": "true"
+        },
+
+        {
+            "area_descripcion": "Ciencias de la Salud",
+            "area_codigo": 3.3,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 331.0,
+            "disciplina_descripcion": "Ciencias y Servicios de Cuidado de la Salud (incluye administración de hospitales y financiamiento del cuidado de la salud)",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 152,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias de la Salud",
+            "area_codigo": 3.3,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 332.0,
+            "disciplina_descripcion": "Políticas y Servicios de Salud",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 153,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias de la Salud",
+            "area_codigo": 3.3,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 333.0,
+            "disciplina_descripcion": "Enfermería",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 154,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias de la Salud",
+            "area_codigo": 3.3,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 334.0,
+            "disciplina_descripcion": "Nutrición, Dietética",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 155,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias de la Salud",
+            "area_codigo": 3.3,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 335.0,
+            "disciplina_descripcion": "Salud Pública y Medioambiental",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 156,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias de la Salud",
+            "area_codigo": 3.3,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 336.0,
+            "disciplina_descripcion": "Medicina Tropical",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 157,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias de la Salud",
+            "area_codigo": 3.3,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 337.0,
+            "disciplina_descripcion": "Parasitología",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 158,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias de la Salud",
+            "area_codigo": 3.3,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 338.0,
+            "disciplina_descripcion": "Enfermedades Infecciosas",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 159,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias de la Salud",
+            "area_codigo": 3.3,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 339.0,
+            "disciplina_descripcion": "Epidemiología",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 160,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias de la Salud",
+            "area_codigo": 3.3,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 3310.0,
+            "disciplina_descripcion": "Salud Ocupacional",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 161,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias de la Salud",
+            "area_codigo": 3.3,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 3311.0,
+            "disciplina_descripcion": "Ciencias del Deporte",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 162,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias de la Salud",
+            "area_codigo": 3.3,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 3312.0,
+            "disciplina_descripcion": "Ciencias Biomédicas Sociales (Planificación Familiar, Salud Sexual, Psico-oncología, efectos políticos y sociales de la investigación biomédica)",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 163,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias de la Salud",
+            "area_codigo": 3.3,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 3313.0,
+            "disciplina_descripcion": "Ética Médica",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 164,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias de la Salud",
+            "area_codigo": 3.3,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 3314.0,
+            "disciplina_descripcion": "Drogadicción",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 165,
+            "stem": "true"
+        },
+
+        {
+            "area_descripcion": "Biotecnología de la Salud",
+            "area_codigo": 3.4,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 341.0,
+            "disciplina_descripcion": "Biotecnología relacionada con la Salud",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 167,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Biotecnología de la Salud",
+            "area_codigo": 3.4,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 342.0,
+            "disciplina_descripcion": "Tecnologías que involucran la manipulación de células, tejidos, órganos o todo el organismo (reproducción asistida)",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 168,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Biotecnología de la Salud",
+            "area_codigo": 3.4,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 343.0,
+            "disciplina_descripcion": "Tecnologías que involucran la identificación de ADN, proteínas y enzimas, y cómo influyen en el conjunto de enfermedades y mantenimiento del bienestar",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 169,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Biotecnología de la Salud",
+            "area_codigo": 3.4,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 344.0,
+            "disciplina_descripcion": "Biomateriales (los relacionados con implantes, aparatos y sensores médicos)",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 170,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Biotecnología de la Salud",
+            "area_codigo": 3.4,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 345.0,
+            "disciplina_descripcion": "Ética relacionada con Biotecnología Médica",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 171,
+            "stem": "true"
+        },
+
+        {
+            "area_descripcion": "Otras Ciencias Médicas",
+            "area_codigo": 3.5,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 351.0,
+            "disciplina_descripcion": "Medicina Forense",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 173,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Otras Ciencias Médicas",
+            "area_codigo": 3.5,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 352.0,
+            "disciplina_descripcion": "Otras Ciencias Médicas",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 174,
+            "stem": "true"
+        },
+
+        {
+            "area_descripcion": "Agricultura, Silvicultura y Pesca",
+            "area_codigo": 4.1,
+            "gran_area_codigo": 4,
+            "disciplina_codigo": 411.0,
+            "disciplina_descripcion": "Agricultura",
+            "gran_area_descripcion": "CIENCIAS AGRÍCOLAS",
+            "pk_disciplina": 177,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Agricultura, Silvicultura y Pesca",
+            "area_codigo": 4.1,
+            "gran_area_codigo": 4,
+            "disciplina_codigo": 412.0,
+            "disciplina_descripcion": "Silvicultura",
+            "gran_area_descripcion": "CIENCIAS AGRÍCOLAS",
+            "pk_disciplina": 178,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Agricultura, Silvicultura y Pesca",
+            "area_codigo": 4.1,
+            "gran_area_codigo": 4,
+            "disciplina_codigo": 413.0,
+            "disciplina_descripcion": "Pesca",
+            "gran_area_descripcion": "CIENCIAS AGRÍCOLAS",
+            "pk_disciplina": 179,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Agricultura, Silvicultura y Pesca",
+            "area_codigo": 4.1,
+            "gran_area_codigo": 4,
+            "disciplina_codigo": 414.0,
+            "disciplina_descripcion": "Ciencias del Suelo",
+            "gran_area_descripcion": "CIENCIAS AGRÍCOLAS",
+            "pk_disciplina": 180,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Agricultura, Silvicultura y Pesca",
+            "area_codigo": 4.1,
+            "gran_area_codigo": 4,
+            "disciplina_codigo": 415.0,
+            "disciplina_descripcion": "Horticultura, Viticultura",
+            "gran_area_descripcion": "CIENCIAS AGRÍCOLAS",
+            "pk_disciplina": 181,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Agricultura, Silvicultura y Pesca",
+            "area_codigo": 4.1,
+            "gran_area_codigo": 4,
+            "disciplina_codigo": 416.0,
+            "disciplina_descripcion": "Agronomía, reproducción y protección de plantas (la agricultura biotecnológica va en 4.4 \"Biotecnología Agropecuaria\")",
+            "gran_area_descripcion": "CIENCIAS AGRÍCOLAS",
+            "pk_disciplina": 182,
+            "stem": "false"
+        },
+
+        {
+            "area_descripcion": "Producción Animal y Lechería",
+            "area_codigo": 4.2,
+            "gran_area_codigo": 4,
+            "disciplina_codigo": 421.0,
+            "disciplina_descripcion": "Producción Animal y Lechería (la biotecnología animal va en 4.4 \"Biotecnología Agropecuaria\")",
+            "gran_area_descripcion": "CIENCIAS AGRÍCOLAS",
+            "pk_disciplina": 184,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Producción Animal y Lechería",
+            "area_codigo": 4.2,
+            "gran_area_codigo": 4,
+            "disciplina_codigo": 422.0,
+            "disciplina_descripcion": "Ganadería",
+            "gran_area_descripcion": "CIENCIAS AGRÍCOLAS",
+            "pk_disciplina": 185,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Producción Animal y Lechería",
+            "area_codigo": 4.2,
+            "gran_area_codigo": 4,
+            "disciplina_codigo": 423.0,
+            "disciplina_descripcion": "Mascotas",
+            "gran_area_descripcion": "CIENCIAS AGRÍCOLAS",
+            "pk_disciplina": 186,
+            "stem": "false"
+        },
+
+        {
+            "area_descripcion": "Biotecnología Agropecuaria",
+            "area_codigo": 4.4,
+            "gran_area_codigo": 4,
+            "disciplina_codigo": 441.0,
+            "disciplina_descripcion": "Biotecnología Agrícola y Biotecnología Alimentaria",
+            "gran_area_descripcion": "CIENCIAS AGRÍCOLAS",
+            "pk_disciplina": 189,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Biotecnología Agropecuaria",
+            "area_codigo": 4.4,
+            "gran_area_codigo": 4,
+            "disciplina_codigo": 442.0,
+            "disciplina_descripcion": "Tecnología GM, clonación de ganado, selección asistida, diagnósticos, tecnología de producción de biomasa, etc.",
+            "gran_area_descripcion": "CIENCIAS AGRÍCOLAS",
+            "pk_disciplina": 190,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Biotecnología Agropecuaria",
+            "area_codigo": 4.4,
+            "gran_area_codigo": 4,
+            "disciplina_codigo": 443.0,
+            "disciplina_descripcion": "Ética relacionada con Biotecnología Agrícola",
+            "gran_area_descripcion": "CIENCIAS AGRÍCOLAS",
+            "pk_disciplina": 191,
+            "stem": "false"
+        },
+
+        {
+            "area_descripcion": "Psicología",
+            "area_codigo": 5.1,
+            "gran_area_codigo": 5,
+            "disciplina_codigo": 511.0,
+            "disciplina_descripcion": "Psicología (incluye relación hombre-maquina)",
+            "gran_area_descripcion": "CIENCIAS SOCIALES",
+            "pk_disciplina": 195,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Psicología",
+            "area_codigo": 5.1,
+            "gran_area_codigo": 5,
+            "disciplina_codigo": 512.0,
+            "disciplina_descripcion": "Psicología especial (incluye terapia para el aprendizaje, habla, audición, visión y otras discapacidades físicas y mentales)",
+            "gran_area_descripcion": "CIENCIAS SOCIALES",
+            "pk_disciplina": 196,
+            "stem": "false"
+        },
+
+        {
+            "area_descripcion": "Economía y Negocios",
+            "area_codigo": 5.2,
+            "gran_area_codigo": 5,
+            "disciplina_codigo": 521.0,
+            "disciplina_descripcion": "Economía, Econometría",
+            "gran_area_descripcion": "CIENCIAS SOCIALES",
+            "pk_disciplina": 198,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Economía y Negocios",
+            "area_codigo": 5.2,
+            "gran_area_codigo": 5,
+            "disciplina_codigo": 522.0,
+            "disciplina_descripcion": "Organización Industrial",
+            "gran_area_descripcion": "CIENCIAS SOCIALES",
+            "pk_disciplina": 199,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Economía y Negocios",
+            "area_codigo": 5.2,
+            "gran_area_codigo": 5,
+            "disciplina_codigo": 523.0,
+            "disciplina_descripcion": "Negocios y Administración",
+            "gran_area_descripcion": "CIENCIAS SOCIALES",
+            "pk_disciplina": 200,
+            "stem": "false"
+        },
+
+        {
+            "area_descripcion": "Ciencias de la Educación",
+            "area_codigo": 5.3,
+            "gran_area_codigo": 5,
+            "disciplina_codigo": 531.0,
+            "disciplina_descripcion": "Educación General (incluye capacitación, pedagogía y didáctica)",
+            "gran_area_descripcion": "CIENCIAS SOCIALES",
+            "pk_disciplina": 202,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Ciencias de la Educación",
+            "area_codigo": 5.3,
+            "gran_area_codigo": 5,
+            "disciplina_codigo": 532.0,
+            "disciplina_descripcion": "Educación Especial (para personas con discapacidades de aprendizaje)",
+            "gran_area_descripcion": "CIENCIAS SOCIALES",
+            "pk_disciplina": 203,
+            "stem": "false"
+        },
+
+        {
+            "area_descripcion": "Sociología",
+            "area_codigo": 5.4,
+            "gran_area_codigo": 5,
+            "disciplina_codigo": 541.0,
+            "disciplina_descripcion": "Sociología",
+            "gran_area_descripcion": "CIENCIAS SOCIALES",
+            "pk_disciplina": 205,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Sociología",
+            "area_codigo": 5.4,
+            "gran_area_codigo": 5,
+            "disciplina_codigo": 542.0,
+            "disciplina_descripcion": "Demografía",
+            "gran_area_descripcion": "CIENCIAS SOCIALES",
+            "pk_disciplina": 206,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Sociología",
+            "area_codigo": 5.4,
+            "gran_area_codigo": 5,
+            "disciplina_codigo": 543.0,
+            "disciplina_descripcion": "Antropología, Etnología",
+            "gran_area_descripcion": "CIENCIAS SOCIALES",
+            "pk_disciplina": 207,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Sociología",
+            "area_codigo": 5.4,
+            "gran_area_codigo": 5,
+            "disciplina_codigo": 544.0,
+            "disciplina_descripcion": "Tópicos Sociales (estudios de género, estudios de familia, trabajo social, etc.)",
+            "gran_area_descripcion": "CIENCIAS SOCIALES",
+            "pk_disciplina": 208,
+            "stem": "false"
+        },
+
+        {
+            "area_descripcion": "Ciencia Política",
+            "area_codigo": 5.6,
+            "gran_area_codigo": 5,
+            "disciplina_codigo": 561.0,
+            "disciplina_descripcion": "Ciencia Política",
+            "gran_area_descripcion": "CIENCIAS SOCIALES",
+            "pk_disciplina": 211,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Ciencia Política",
+            "area_codigo": 5.6,
+            "gran_area_codigo": 5,
+            "disciplina_codigo": 562.0,
+            "disciplina_descripcion": "Administración Pública",
+            "gran_area_descripcion": "CIENCIAS SOCIALES",
+            "pk_disciplina": 212,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Ciencia Política",
+            "area_codigo": 5.6,
+            "gran_area_codigo": 5,
+            "disciplina_codigo": 563.0,
+            "disciplina_descripcion": "Teoría Organizacional",
+            "gran_area_descripcion": "CIENCIAS SOCIALES",
+            "pk_disciplina": 213,
+            "stem": "false"
+        },
+
+        {
+            "area_descripcion": "Geografía Económica y Social",
+            "area_codigo": 5.7,
+            "gran_area_codigo": 5,
+            "disciplina_codigo": 571.0,
+            "disciplina_descripcion": "Ciencias Medioambientales (aspectos sociales)",
+            "gran_area_descripcion": "CIENCIAS SOCIALES",
+            "pk_disciplina": 215,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Geografía Económica y Social",
+            "area_codigo": 5.7,
+            "gran_area_codigo": 5,
+            "disciplina_codigo": 572.0,
+            "disciplina_descripcion": "Geografía Cultural y Económica",
+            "gran_area_descripcion": "CIENCIAS SOCIALES",
+            "pk_disciplina": 216,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Geografía Económica y Social",
+            "area_codigo": 5.7,
+            "gran_area_codigo": 5,
+            "disciplina_codigo": 573.0,
+            "disciplina_descripcion": "Estudios Urbanos (Planeamiento y Desarrollo)",
+            "gran_area_descripcion": "CIENCIAS SOCIALES",
+            "pk_disciplina": 217,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Geografía Económica y Social",
+            "area_codigo": 5.7,
+            "gran_area_codigo": 5,
+            "disciplina_codigo": 574.0,
+            "disciplina_descripcion": "Planeamiento y aspectos sociales del Transporte (la ingeniería del transporte va en 2.1 \"Ingeniería Civil\")",
+            "gran_area_descripcion": "CIENCIAS SOCIALES",
+            "pk_disciplina": 218,
+            "stem": "false"
+        },
+
+        {
+            "area_descripcion": "Comunicación y Medios",
+            "area_codigo": 5.8,
+            "gran_area_codigo": 5,
+            "disciplina_codigo": 581.0,
+            "disciplina_descripcion": "Periodismo",
+            "gran_area_descripcion": "CIENCIAS SOCIALES",
+            "pk_disciplina": 220,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Comunicación y Medios",
+            "area_codigo": 5.8,
+            "gran_area_codigo": 5,
+            "disciplina_codigo": 583.0,
+            "disciplina_descripcion": "Bibliotecología",
+            "gran_area_descripcion": "CIENCIAS SOCIALES",
+            "pk_disciplina": 221,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Comunicación y Medios",
+            "area_codigo": 5.8,
+            "gran_area_codigo": 5,
+            "disciplina_codigo": 584.0,
+            "disciplina_descripcion": "Comunicación de Medios y Socio-cultural",
+            "gran_area_descripcion": "CIENCIAS SOCIALES",
+            "pk_disciplina": 222,
+            "stem": "false"
+        },
+
+        {
+            "area_descripcion": "Otras Ciencias Sociales",
+            "area_codigo": 5.9,
+            "gran_area_codigo": 5,
+            "disciplina_codigo": 591.0,
+            "disciplina_descripcion": "Ciencias Sociales Interdisciplinarias",
+            "gran_area_descripcion": "CIENCIAS SOCIALES",
+            "pk_disciplina": 224,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Otras Ciencias Sociales",
+            "area_codigo": 5.9,
+            "gran_area_codigo": 5,
+            "disciplina_codigo": 592.0,
+            "disciplina_descripcion": "Otras Ciencias Sociales",
+            "gran_area_descripcion": "CIENCIAS SOCIALES",
+            "pk_disciplina": 225,
+            "stem": "false"
+        },
+
+        {
+            "area_descripcion": "Historia y Arqueología ",
+            "area_codigo": 6.1,
+            "gran_area_codigo": 6,
+            "disciplina_codigo": 611.0,
+            "disciplina_descripcion": "Historia (la historia de la Ciencia y Tecnología va en 6.3 \"Filosofía, Ética y Religión\", mientras que la historia de cada ciencia en particular va en su respectivo encabezado)",
+            "gran_area_descripcion": "HUMANIDADES",
+            "pk_disciplina": 228,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Historia y Arqueología ",
+            "area_codigo": 6.1,
+            "gran_area_codigo": 6,
+            "disciplina_codigo": 612.0,
+            "disciplina_descripcion": "Arqueología",
+            "gran_area_descripcion": "HUMANIDADES",
+            "pk_disciplina": 229,
+            "stem": "false"
+        },
+
+        {
+            "area_descripcion": "Lengua y Literatura",
+            "area_codigo": 6.2,
+            "gran_area_codigo": 6,
+            "disciplina_codigo": 621.0,
+            "disciplina_descripcion": "Estudios Generales del Lenguaje",
+            "gran_area_descripcion": "HUMANIDADES",
+            "pk_disciplina": 231,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Lengua y Literatura",
+            "area_codigo": 6.2,
+            "gran_area_codigo": 6,
+            "disciplina_codigo": 622.0,
+            "disciplina_descripcion": "Lenguajes Específicos",
+            "gran_area_descripcion": "HUMANIDADES",
+            "pk_disciplina": 232,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Lengua y Literatura",
+            "area_codigo": 6.2,
+            "gran_area_codigo": 6,
+            "disciplina_codigo": 623.0,
+            "disciplina_descripcion": "Estudios Generales de Literatura",
+            "gran_area_descripcion": "HUMANIDADES",
+            "pk_disciplina": 233,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Lengua y Literatura",
+            "area_codigo": 6.2,
+            "gran_area_codigo": 6,
+            "disciplina_codigo": 624.0,
+            "disciplina_descripcion": "Teoría Literaria",
+            "gran_area_descripcion": "HUMANIDADES",
+            "pk_disciplina": 234,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Lengua y Literatura",
+            "area_codigo": 6.2,
+            "gran_area_codigo": 6,
+            "disciplina_codigo": 625.0,
+            "disciplina_descripcion": "Literaturas Específicas",
+            "gran_area_descripcion": "HUMANIDADES",
+            "pk_disciplina": 235,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Lengua y Literatura",
+            "area_codigo": 6.2,
+            "gran_area_codigo": 6,
+            "disciplina_codigo": 626.0,
+            "disciplina_descripcion": "Lingüística",
+            "gran_area_descripcion": "HUMANIDADES",
+            "pk_disciplina": 236,
+            "stem": "false"
+        },
+
+        {
+            "area_descripcion": "Filosofía, Ética y Religión",
+            "area_codigo": 6.3,
+            "gran_area_codigo": 6,
+            "disciplina_codigo": 631.0,
+            "disciplina_descripcion": "Filosofía, Historia y Filosofía de la Ciencia y la Tecnología",
+            "gran_area_descripcion": "HUMANIDADES",
+            "pk_disciplina": 238,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Filosofía, Ética y Religión",
+            "area_codigo": 6.3,
+            "gran_area_codigo": 6,
+            "disciplina_codigo": 632.0,
+            "disciplina_descripcion": "Ética (excepto ética relacionada con subáreas específicas)",
+            "gran_area_descripcion": "HUMANIDADES",
+            "pk_disciplina": 239,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Filosofía, Ética y Religión",
+            "area_codigo": 6.3,
+            "gran_area_codigo": 6,
+            "disciplina_codigo": 633.0,
+            "disciplina_descripcion": "Teología",
+            "gran_area_descripcion": "HUMANIDADES",
+            "pk_disciplina": 240,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Filosofía, Ética y Religión",
+            "area_codigo": 6.3,
+            "gran_area_codigo": 6,
+            "disciplina_codigo": 634.0,
+            "disciplina_descripcion": "Estudios Religiosos",
+            "gran_area_descripcion": "HUMANIDADES",
+            "pk_disciplina": 241,
+            "stem": "false"
+        },
+
+        {
+            "area_descripcion": "Arte",
+            "area_codigo": 6.4,
+            "gran_area_codigo": 6,
+            "disciplina_codigo": 641.0,
+            "disciplina_descripcion": "Arte, Historia del Arte",
+            "gran_area_descripcion": "HUMANIDADES",
+            "pk_disciplina": 243,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Arte",
+            "area_codigo": 6.4,
+            "gran_area_codigo": 6,
+            "disciplina_codigo": 642.0,
+            "disciplina_descripcion": "Diseño Arquitectónico",
+            "gran_area_descripcion": "HUMANIDADES",
+            "pk_disciplina": 244,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Arte",
+            "area_codigo": 6.4,
+            "gran_area_codigo": 6,
+            "disciplina_codigo": 643.0,
+            "disciplina_descripcion": "Artes escénicas (Musicología, Ciencia del Teatro, Dramaturgia)",
+            "gran_area_descripcion": "HUMANIDADES",
+            "pk_disciplina": 245,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Arte",
+            "area_codigo": 6.4,
+            "gran_area_codigo": 6,
+            "disciplina_codigo": 644.0,
+            "disciplina_descripcion": "Estudios del Folklore",
+            "gran_area_descripcion": "HUMANIDADES",
+            "pk_disciplina": 246,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Arte",
+            "area_codigo": 6.4,
+            "gran_area_codigo": 6,
+            "disciplina_codigo": 645.0,
+            "disciplina_descripcion": "Estudios sobre Cine, Radio y Televisión",
+            "gran_area_descripcion": "HUMANIDADES",
+            "pk_disciplina": 247,
+            "stem": "false"
+        },
+
+        {
+            "area_descripcion": "Otras Ciencias Naturales y Exactas",
+            "area_codigo": 1.7,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 171.0,
+            "disciplina_descripcion": "Otras Ciencias Naturales y Exactas",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 249,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias Veterinarias",
+            "area_codigo": 4.3,
+            "gran_area_codigo": 4,
+            "disciplina_codigo": 431.0,
+            "disciplina_descripcion": "Ciencias Veterinarias",
+            "gran_area_descripcion": "CIENCIAS AGRÍCOLAS",
+            "pk_disciplina": 250,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Otras Ciencias Agrícolas",
+            "area_codigo": 4.5,
+            "gran_area_codigo": 4,
+            "disciplina_codigo": 451.0,
+            "disciplina_descripcion": "Otras Ciencias Agrícolas",
+            "gran_area_descripcion": "CIENCIAS AGRÍCOLAS",
+            "pk_disciplina": 251,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Derecho",
+            "area_codigo": 5.5,
+            "gran_area_codigo": 5,
+            "disciplina_codigo": 551.0,
+            "disciplina_descripcion": "Derecho",
+            "gran_area_descripcion": "CIENCIAS SOCIALES",
+            "pk_disciplina": 252,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Otras Humanidades",
+            "area_codigo": 6.5,
+            "gran_area_codigo": 6,
+            "disciplina_codigo": 651.0,
+            "disciplina_descripcion": "Otras Humanidades",
+            "gran_area_descripcion": "HUMANIDADES",
+            "pk_disciplina": 253,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Matemáticas",
+            "area_codigo": 1.1,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 114.0,
+            "disciplina_descripcion": "Otras Matemáticas",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 254,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias de la Computación e Información",
+            "area_codigo": 1.2,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 123.0,
+            "disciplina_descripcion": "Otras Ciencias de la Computación e Información",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 255,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias Físicas",
+            "area_codigo": 1.3,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 138.0,
+            "disciplina_descripcion": "Otras Ciencias Físicas",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 256,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias Químicas",
+            "area_codigo": 1.4,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 146.0,
+            "disciplina_descripcion": "Otras Ciencias Químicas",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 257,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias de la Tierra y relacionadas con el Medio Ambiente",
+            "area_codigo": 1.5,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 1512.0,
+            "disciplina_descripcion": "Otras Ciencias de la Tierra y relacionadas con el Medio Ambiente",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 258,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias Biológicas",
+            "area_codigo": 1.6,
+            "gran_area_codigo": 1,
+            "disciplina_codigo": 1617.0,
+            "disciplina_descripcion": "Otras Ciencias Biológicas",
+            "gran_area_descripcion": "CIENCIAS NATURALES Y EXACTAS",
+            "pk_disciplina": 259,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ingeniería Civil",
+            "area_codigo": 2.1,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 216.0,
+            "disciplina_descripcion": "Otras Ingeniería Civil",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 260,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ingeniería Eléctrica, Ingeniería Electrónica e Ingeniería de la Información",
+            "area_codigo": 2.2,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 227.0,
+            "disciplina_descripcion": "Otras Ingeniería Eléctrica, Ingeniería Electrónica e Ingeniería de la Información",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 261,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ingeniería Mecánica",
+            "area_codigo": 2.3,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 237.0,
+            "disciplina_descripcion": "Otras Ingeniería Mecánica",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 262,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ingeniería Química",
+            "area_codigo": 2.4,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 243.0,
+            "disciplina_descripcion": "Otras Ingeniería Química",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 263,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ingeniería de los Materiales",
+            "area_codigo": 2.5,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 257.0,
+            "disciplina_descripcion": "Otras Ingeniería de los Materiales",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 264,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ingeniería Médica",
+            "area_codigo": 2.6,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 263.0,
+            "disciplina_descripcion": "Otras Ingeniería Médica",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 265,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ingeniería del Medio Ambiente",
+            "area_codigo": 2.7,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 277.0,
+            "disciplina_descripcion": "Otras Ingeniería del Medio Ambiente",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 266,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Biotecnología del Medio Ambiente",
+            "area_codigo": 2.8,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 284.0,
+            "disciplina_descripcion": "Otras Biotecnología del Medio Ambiente",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 267,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Biotecnología Industrial",
+            "area_codigo": 2.9,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 294.0,
+            "disciplina_descripcion": "Otras Biotecnología Industrial",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 268,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Nanotecnología",
+            "area_codigo": 2.1,
+            "gran_area_codigo": 2,
+            "disciplina_codigo": 2103.0,
+            "disciplina_descripcion": "Otras Nanotecnología",
+            "gran_area_descripcion": "INGENIERÍAS Y TECNOLOGÍAS",
+            "pk_disciplina": 269,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Medicina Básica",
+            "area_codigo": 3.1,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 3111.0,
+            "disciplina_descripcion": "Otras Medicina Básica",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 270,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Medicina Clínica  ",
+            "area_codigo": 3.2,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 3230.0,
+            "disciplina_descripcion": "Otras Medicina Clínica",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 271,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Ciencias de la Salud",
+            "area_codigo": 3.3,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 3315.0,
+            "disciplina_descripcion": "Otras Ciencias de la Salud",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 272,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Biotecnología de la Salud",
+            "area_codigo": 3.4,
+            "gran_area_codigo": 3,
+            "disciplina_codigo": 346.0,
+            "disciplina_descripcion": "Otras Biotecnologías de la Salud",
+            "gran_area_descripcion": "CIENCIAS MÉDICAS Y DE LA SALUD",
+            "pk_disciplina": 273,
+            "stem": "true"
+        },
+        {
+            "area_descripcion": "Agricultura, Silvicultura y Pesca",
+            "area_codigo": 4.1,
+            "gran_area_codigo": 4,
+            "disciplina_codigo": 417.0,
+            "disciplina_descripcion": "Otras Agricultura, Silvicultura y Pesca",
+            "gran_area_descripcion": "CIENCIAS AGRÍCOLAS",
+            "pk_disciplina": 274,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Producción Animal y Lechería",
+            "area_codigo": 4.2,
+            "gran_area_codigo": 4,
+            "disciplina_codigo": 424.0,
+            "disciplina_descripcion": "Otras Producción Animal y Lechería",
+            "gran_area_descripcion": "CIENCIAS AGRÍCOLAS",
+            "pk_disciplina": 275,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Ciencias Veterinarias",
+            "area_codigo": 4.3,
+            "gran_area_codigo": 4,
+            "disciplina_codigo": 432.0,
+            "disciplina_descripcion": "Otras Ciencias Veterinarias",
+            "gran_area_descripcion": "CIENCIAS AGRÍCOLAS",
+            "pk_disciplina": 276,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Biotecnología Agropecuaria",
+            "area_codigo": 4.4,
+            "gran_area_codigo": 4,
+            "disciplina_codigo": 444.0,
+            "disciplina_descripcion": "Otras Biotecnología Agropecuaria",
+            "gran_area_descripcion": "CIENCIAS AGRÍCOLAS",
+            "pk_disciplina": 277,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Psicología",
+            "area_codigo": 5.1,
+            "gran_area_codigo": 5,
+            "disciplina_codigo": 513.0,
+            "disciplina_descripcion": "Otras Psicología",
+            "gran_area_descripcion": "CIENCIAS SOCIALES",
+            "pk_disciplina": 278,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Economía y Negocios",
+            "area_codigo": 5.2,
+            "gran_area_codigo": 5,
+            "disciplina_codigo": 524.0,
+            "disciplina_descripcion": "Otras Economía y Negocios",
+            "gran_area_descripcion": "CIENCIAS SOCIALES",
+            "pk_disciplina": 279,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Ciencias de la Educación",
+            "area_codigo": 5.3,
+            "gran_area_codigo": 5,
+            "disciplina_codigo": 533.0,
+            "disciplina_descripcion": "Otras Ciencias de la Educación",
+            "gran_area_descripcion": "CIENCIAS SOCIALES",
+            "pk_disciplina": 280,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Sociología",
+            "area_codigo": 5.4,
+            "gran_area_codigo": 5,
+            "disciplina_codigo": 545.0,
+            "disciplina_descripcion": "Otras Sociología",
+            "gran_area_descripcion": "CIENCIAS SOCIALES",
+            "pk_disciplina": 281,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Derecho",
+            "area_codigo": 5.5,
+            "gran_area_codigo": 5,
+            "disciplina_codigo": 552.0,
+            "disciplina_descripcion": "Otras Derecho",
+            "gran_area_descripcion": "CIENCIAS SOCIALES",
+            "pk_disciplina": 282,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Ciencia Política",
+            "area_codigo": 5.6,
+            "gran_area_codigo": 5,
+            "disciplina_codigo": 564.0,
+            "disciplina_descripcion": "Otras Ciencia Política",
+            "gran_area_descripcion": "CIENCIAS SOCIALES",
+            "pk_disciplina": 283,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Geografía Económica y Social",
+            "area_codigo": 5.7,
+            "gran_area_codigo": 5,
+            "disciplina_codigo": 575.0,
+            "disciplina_descripcion": "Otras Geografía Económica y Social",
+            "gran_area_descripcion": "CIENCIAS SOCIALES",
+            "pk_disciplina": 284,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Comunicación y Medios",
+            "area_codigo": 5.8,
+            "gran_area_codigo": 5,
+            "disciplina_codigo": 585.0,
+            "disciplina_descripcion": "Otras Comunicación y Medios",
+            "gran_area_descripcion": "CIENCIAS SOCIALES",
+            "pk_disciplina": 285,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Historia y Arqueología ",
+            "area_codigo": 6.1,
+            "gran_area_codigo": 6,
+            "disciplina_codigo": 613.0,
+            "disciplina_descripcion": "Otras Historia y Arqueología",
+            "gran_area_descripcion": "HUMANIDADES",
+            "pk_disciplina": 286,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Lengua y Literatura",
+            "area_codigo": 6.2,
+            "gran_area_codigo": 6,
+            "disciplina_codigo": 627.0,
+            "disciplina_descripcion": "Otras Lengua y Literatura",
+            "gran_area_descripcion": "HUMANIDADES",
+            "pk_disciplina": 287,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Filosofía, Ética y Religión",
+            "area_codigo": 6.3,
+            "gran_area_codigo": 6,
+            "disciplina_codigo": 635.0,
+            "disciplina_descripcion": "Otras Filosofía, Étnica y Religión",
+            "gran_area_descripcion": "HUMANIDADES",
+            "pk_disciplina": 288,
+            "stem": "false"
+        },
+        {
+            "area_descripcion": "Arte",
+            "area_codigo": 6.4,
+            "gran_area_codigo": 6,
+            "disciplina_codigo": 646.0,
+            "disciplina_descripcion": "Otras Artes",
+            "gran_area_descripcion": "HUMANIDADES",
+            "pk_disciplina": 289,
+            "stem": "false"
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+  "data": [
+    {
+      "GEO": "Belgium",
+      "pk_pais": 1
+    },
+    {
+      "GEO": "Bulgaria",
+      "pk_pais": 2
+    },
+    {
+      "GEO": "Denmark",
+      "pk_pais": 3
+    },
+    {
+      "GEO": "Germany",
+      "pk_pais": 4
+    },
+    {
+      "GEO": "Estonia",
+      "pk_pais": 5
+    },
+    {
+      "GEO": "Ireland",
+      "pk_pais": 6
+    },
+    {
+      "GEO": "Greece",
+      "pk_pais": 7
+    },
+    {
+      "GEO": "Spain",
+      "pk_pais": 8
+    },
+    {
+      "GEO": "France",
+      "pk_pais": 9
+    },
+    {
+      "GEO": "Italy",
+      "pk_pais": 10
+    },
+    {
+      "GEO": "Cyprus",
+      "pk_pais": 11
+    },
+    {
+      "GEO": "Latvia",
+      "pk_pais": 12
+    },
+    {
+      "GEO": "Lithuania",
+      "pk_pais": 13
+    },
+    {
+      "GEO": "Luxembourg",
+      "pk_pais": 14
+    },
+    {
+      "GEO": "Hungary",
+      "pk_pais": 15
+    },
+    {
+      "GEO": "Malta",
+      "pk_pais": 16
+    },
+    {
+      "GEO": "Netherlands",
+      "pk_pais": 17
+    },
+    {
+      "GEO": "Austria",
+      "pk_pais": 18
+    },
+    {
+      "GEO": "Poland",
+      "pk_pais": 19
+    },
+    {
+      "GEO": "Portugal",
+      "pk_pais": 20
+    },
+    {
+      "GEO": "Romania",
+      "pk_pais": 21
+    },
+    {
+      "GEO": "Slovenia",
+      "pk_pais": 22
+    },
+    {
+      "GEO": "Slovakia",
+      "pk_pais": 23
+    },
+    {
+      "GEO": "Finland",
+      "pk_pais": 24
+    },
+    {
+      "GEO": "Sweden",
+      "pk_pais": 25
+    },
+    {
+      "GEO": "United Kingdom",
+      "pk_pais": 26
+    },
+    {
+      "GEO": "Iceland",
+      "pk_pais": 27
+    },
+    {
+      "GEO": "Norway",
+      "pk_pais": 28
+    },
+    {
+      "GEO": "Switzerland",
+      "pk_pais": 29
+    },
+    {
+      "GEO": "Croatia",
+      "pk_pais": 30
+    },
+    {
+      "GEO": "Czechia",
+      "pk_pais": 31
+    },
+    {
+      "GEO": "North Macedonia",
+      "pk_pais": 32
+    },
+    {
+      "GEO": "Turkey",
+      "pk_pais": 33
+    },
+    {
+      "GEO": "Serbia",
+      "pk_pais": 34
+    },
+    {
+      "GEO": "Montenegro",
+      "pk_pais": 35
+    }
+  ]
+}

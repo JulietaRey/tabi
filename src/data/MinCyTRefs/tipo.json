@@ -1,0 +1,12 @@
+{
+    "data": [
+        { "pk_tipo": 1, "tipo_personal_descripcion": "SIN DATOS" },
+        { "pk_tipo": 2, "tipo_personal_descripcion": "BECARIO DE I+D" },
+        {
+            "pk_tipo": 3,
+            "tipo_personal_descripcion": "OTRO PERSONAL DE LA INSTITUCION"
+        },
+        { "pk_tipo": 4, "tipo_personal_descripcion": "INVESTIGADOR" },
+        { "pk_tipo": 5, "tipo_personal_descripcion": "DOCENTE" }
+    ]
+}

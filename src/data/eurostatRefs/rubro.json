@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "FIELD": "Science, mathematics and computing, engineering, manufacturing and construction",
+      "pk_rubro": 1
+    },
+    {
+      "FIELD": "Science, mathematics and computing",
+      "pk_rubro": 2
+    },
+    {
+      "FIELD": "Engineering, manufacturing and construction",
+      "pk_rubro": 3
+    },
+    {
+      "FIELD": "Others",
+      "pk_rubro": 4
+    }
+  ]
+}

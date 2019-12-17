@@ -1,0 +1,20 @@
+{
+    "data": [
+        { "descripcion": "Sin datos", "pk_grado": 1 },
+        { "descripcion": "Universitario de posgrado/doctorado", "pk_grado": 2 },
+        { "descripcion": "Universitario de posgrado/maestría", "pk_grado": 3 },
+        {
+            "descripcion": "Universitario de posgrado/especialización",
+            "pk_grado": 4
+        },
+        {
+            "descripcion": "Universitario de posgrado/perfeccionamiento",
+            "pk_grado": 5
+        },
+        { "descripcion": "Universitario de grado", "pk_grado": 6 },
+        { "descripcion": "Terciario no universitario", "pk_grado": 7 },
+        { "descripcion": "Medio", "pk_grado": 8 },
+        { "descripcion": "Básico", "pk_grado": 9 },
+        { "descripcion": "Universitario de posdoctorado", "pk_grado": 10 }
+    ]
+}

@@ -1,0 +1,566 @@
+[
+    {
+        "pk_lugar": 1,
+        "localidad": "Chilecito",
+        "provincia": "La Rioja",
+        "id_provincia": 46
+    },
+    {
+        "pk_lugar": 2,
+        "localidad": "Tandil",
+        "provincia": "Buenos Aires",
+        "id_provincia": 6
+    },
+    {
+        "pk_lugar": 3,
+        "localidad": "Monserrat",
+        "provincia": "Ciudad Autónoma de Buenos Aires",
+        "id_provincia": 2
+    },
+    {
+        "pk_lugar": 4,
+        "localidad": "San Luis",
+        "provincia": "San Luis",
+        "id_provincia": 74
+    },
+    {
+        "pk_lugar": 5,
+        "localidad": "Rosario",
+        "provincia": "Santa Fe",
+        "id_provincia": 82
+    },
+    {
+        "pk_lugar": 6,
+        "localidad": "La Plata",
+        "provincia": "Buenos Aires",
+        "id_provincia": 6
+    },
+    {
+        "pk_lugar": 7,
+        "localidad": "Concepción del Uruguay",
+        "provincia": "Entre Ríos",
+        "id_provincia": 30
+    },
+    {
+        "pk_lugar": 8,
+        "localidad": "Jujuy",
+        "provincia": "Jujuy",
+        "id_provincia": 38
+    },
+    {
+        "pk_lugar": 9,
+        "localidad": "Concordia",
+        "provincia": "Entre Ríos",
+        "id_provincia": 30
+    },
+    {
+        "pk_lugar": 10,
+        "localidad": "Villa Crespo",
+        "provincia": "Ciudad Autónoma de Buenos Aires",
+        "id_provincia": 2
+    },
+    {
+        "pk_lugar": 11,
+        "localidad": "Necochea",
+        "provincia": "Buenos Aires",
+        "id_provincia": 6
+    },
+    {
+        "pk_lugar": 12,
+        "localidad": "Comodoro Rivadavia",
+        "provincia": "Chubut",
+        "id_provincia": 26
+    },
+    {
+        "pk_lugar": 13,
+        "localidad": "Bahia Blanca",
+        "provincia": "Buenos Aires",
+        "id_provincia": 6
+    },
+    {
+        "pk_lugar": 14,
+        "localidad": "Mar del Plata",
+        "provincia": "Buenos Aires",
+        "id_provincia": 6
+    },
+    {
+        "pk_lugar": 15,
+        "localidad": "Almagro",
+        "provincia": "Ciudad Autónoma de Buenos Aires",
+        "id_provincia": 2
+    },
+    {
+        "pk_lugar": 16,
+        "localidad": "Liniers",
+        "provincia": "Ciudad Autónoma de Buenos Aires",
+        "id_provincia": 2
+    },
+    {
+        "pk_lugar": 17,
+        "localidad": "Córdoba",
+        "provincia": "Córdoba",
+        "id_provincia": 14
+    },
+    {
+        "pk_lugar": 18,
+        "localidad": "San Miguel de Tucumán",
+        "provincia": "Tucumán",
+        "id_provincia": 90
+    },
+    {
+        "pk_lugar": 19,
+        "localidad": "Azul",
+        "provincia": "Buenos Aires",
+        "id_provincia": 6
+    },
+    {
+        "pk_lugar": 20,
+        "localidad": "Belgrano",
+        "provincia": "Ciudad Autónoma de Buenos Aires",
+        "id_provincia": 2
+    },
+    {
+        "pk_lugar": 21,
+        "localidad": "Resistencia",
+        "provincia": "Chaco",
+        "id_provincia": 22
+    },
+    {
+        "pk_lugar": 22,
+        "localidad": "Devoto",
+        "provincia": "Ciudad Autónoma de Buenos Aires",
+        "id_provincia": 2
+    },
+    {
+        "pk_lugar": 23,
+        "localidad": "Dean Funes",
+        "provincia": "Córdoba",
+        "id_provincia": 14
+    },
+    {
+        "pk_lugar": 24,
+        "localidad": "Santa Fe",
+        "provincia": "Santa Fe",
+        "id_provincia": 82
+    },
+    {
+        "pk_lugar": 25,
+        "localidad": "Villa Mercedes",
+        "provincia": "San Luis",
+        "id_provincia": 74
+    },
+    {
+        "pk_lugar": 26,
+        "localidad": "Lobería",
+        "provincia": "Buenos Aires",
+        "id_provincia": 6
+    },
+    {
+        "pk_lugar": 27,
+        "localidad": "Corrientes",
+        "provincia": "Corrientes",
+        "id_provincia": 18
+    },
+    {
+        "pk_lugar": 28,
+        "localidad": "Lanús",
+        "provincia": "Buenos Aires",
+        "id_provincia": 6
+    },
+    {
+        "pk_lugar": 29,
+        "localidad": "Trelew",
+        "provincia": "Chubut",
+        "id_provincia": 26
+    },
+    {
+        "pk_lugar": 30,
+        "localidad": "Mendoza",
+        "provincia": "Mendoza",
+        "id_provincia": 50
+    },
+    {
+        "pk_lugar": 31,
+        "localidad": "Rafaela",
+        "provincia": "Santa Fe",
+        "id_provincia": 82
+    },
+    {
+        "pk_lugar": 32,
+        "localidad": "Posadas",
+        "provincia": "Misiones",
+        "id_provincia": 54
+    },
+    {
+        "pk_lugar": 33,
+        "localidad": "Pinamar",
+        "provincia": "Buenos Aires",
+        "id_provincia": 6
+    },
+    {
+        "pk_lugar": 34,
+        "localidad": "Ranchos",
+        "provincia": "Buenos Aires",
+        "id_provincia": 6
+    },
+    {
+        "pk_lugar": 35,
+        "localidad": "Barracas",
+        "provincia": "Ciudad Autónoma de Buenos Aires",
+        "id_provincia": 2
+    },
+    {
+        "pk_lugar": 36,
+        "localidad": "Salta",
+        "provincia": "Salta",
+        "id_provincia": 66
+    },
+    {
+        "pk_lugar": 37,
+        "localidad": "Santiago del Estero",
+        "provincia": "Santiago del Estero",
+        "id_provincia": 86
+    },
+    {
+        "pk_lugar": 38,
+        "localidad": "San Telmo",
+        "provincia": "Ciudad Autónoma de Buenos Aires",
+        "id_provincia": 2
+    },
+    {
+        "pk_lugar": 39,
+        "localidad": "La Rioja",
+        "provincia": "La Rioja",
+        "id_provincia": 46
+    },
+    {
+        "pk_lugar": 40,
+        "localidad": "Paraná",
+        "provincia": "Entre Ríos",
+        "id_provincia": 30
+    },
+    {
+        "pk_lugar": 41,
+        "localidad": "San Juan",
+        "provincia": "San Juan",
+        "id_provincia": 70
+    },
+    {
+        "pk_lugar": 42,
+        "localidad": "Bragado",
+        "provincia": "Buenos Aires",
+        "id_provincia": 6
+    },
+    {
+        "pk_lugar": 43,
+        "localidad": "Junín",
+        "provincia": "Buenos Aires",
+        "id_provincia": 6
+    },
+    {
+        "pk_lugar": 44,
+        "localidad": "Coronel Rosales",
+        "provincia": "Buenos Aires",
+        "id_provincia": 6
+    },
+    {
+        "pk_lugar": 45,
+        "localidad": "San Salvador de Jujuy",
+        "provincia": "Jujuy",
+        "id_provincia": 38
+    },
+    {
+        "pk_lugar": 46,
+        "localidad": "Nueva Orán",
+        "provincia": "Salta",
+        "id_provincia": 66
+    },
+    {
+        "pk_lugar": 47,
+        "localidad": "Villa María",
+        "provincia": "Córdoba",
+        "id_provincia": 14
+    },
+    {
+        "pk_lugar": 48,
+        "localidad": "Concepción",
+        "provincia": "Tucumán",
+        "id_provincia": 90
+    },
+    {
+        "pk_lugar": 49,
+        "localidad": "Río Cuarto",
+        "provincia": "Córdoba",
+        "id_provincia": 14
+    },
+    {
+        "pk_lugar": 50,
+        "localidad": "Esquel",
+        "provincia": "Chubut",
+        "id_provincia": 26
+    },
+    {
+        "pk_lugar": 51,
+        "localidad": "Apostoles",
+        "provincia": "Misiones",
+        "id_provincia": 54
+    },
+    {
+        "pk_lugar": 52,
+        "localidad": "González Catán",
+        "provincia": "Buenos Aires",
+        "id_provincia": 6
+    },
+    {
+        "pk_lugar": 53,
+        "localidad": "América",
+        "provincia": "Buenos Aires",
+        "id_provincia": 6
+    },
+    {
+        "pk_lugar": 54,
+        "localidad": "Dolores",
+        "provincia": "Buenos Aires",
+        "id_provincia": 6
+    },
+    {
+        "pk_lugar": 55,
+        "localidad": "San Miguel",
+        "provincia": "Buenos Aires",
+        "id_provincia": 6
+    },
+    {
+        "pk_lugar": 56,
+        "localidad": "Libertador General San Martín",
+        "provincia": "Buenos Aires",
+        "id_provincia": 6
+    },
+    {
+        "pk_lugar": 57,
+        "localidad": "Rosario de La Frontera",
+        "provincia": "Salta",
+        "id_provincia": 66
+    },
+    {
+        "pk_lugar": 58,
+        "localidad": "San Francisco",
+        "provincia": "Córdoba",
+        "id_provincia": 14
+    },
+    {
+        "pk_lugar": 59,
+        "localidad": "Rauch",
+        "provincia": "Buenos Aires",
+        "id_provincia": 6
+    },
+    {
+        "pk_lugar": 60,
+        "localidad": "Rojas",
+        "provincia": "Buenos Aires",
+        "id_provincia": 6
+    },
+    {
+        "pk_lugar": 61,
+        "localidad": "San Nicolás",
+        "provincia": "Buenos Aires",
+        "id_provincia": 6
+    },
+    {
+        "pk_lugar": 62,
+        "localidad": "San Antonio de Areco",
+        "provincia": "Buenos Aires",
+        "id_provincia": 6
+    },
+    {
+        "pk_lugar": 63,
+        "localidad": "Río Gallegos",
+        "provincia": "Santa Cruz",
+        "id_provincia": 78
+    },
+    {
+        "pk_lugar": 64,
+        "localidad": "Pergamino",
+        "provincia": "Buenos Aires",
+        "id_provincia": 6
+    },
+    {
+        "pk_lugar": 65,
+        "localidad": "Ushuaia",
+        "provincia": "Tierra del Fuego",
+        "id_provincia": 94
+    },
+    {
+        "pk_lugar": 66,
+        "localidad": "San Martin",
+        "provincia": "Buenos Aires",
+        "id_provincia": 6
+    },
+    {
+        "pk_lugar": 67,
+        "localidad": "Las Varillas",
+        "provincia": "Córdoba",
+        "id_provincia": 14
+    },
+    {
+        "pk_lugar": 68,
+        "localidad": "Monte Grande",
+        "provincia": "Buenos Aires",
+        "id_provincia": 6
+    },
+    {
+        "pk_lugar": 69,
+        "localidad": "Cruz del Eje",
+        "provincia": "Córdoba",
+        "id_provincia": 14
+    },
+    {
+        "pk_lugar": 70,
+        "localidad": "Bell Ville",
+        "provincia": "Córdoba",
+        "id_provincia": 14
+    },
+    {
+        "pk_lugar": 71,
+        "localidad": "Baradero",
+        "provincia": "Buenos Aires",
+        "id_provincia": 6
+    },
+    {
+        "pk_lugar": 72,
+        "localidad": "Viedma",
+        "provincia": "Río Negro",
+        "id_provincia": 62
+    },
+    {
+        "pk_lugar": 73,
+        "localidad": "Ezeiza",
+        "provincia": "Buenos Aires",
+        "id_provincia": 6
+    },
+    {
+        "pk_lugar": 74,
+        "localidad": "Carlos Tejedor",
+        "provincia": "Buenos Aires",
+        "id_provincia": 6
+    },
+    {
+        "pk_lugar": 75,
+        "localidad": "Tartagal",
+        "provincia": "Salta",
+        "id_provincia": 66
+    },
+    {
+        "pk_lugar": 76,
+        "localidad": "General Alvear",
+        "provincia": "Mendoza",
+        "id_provincia": 50
+    },
+    {
+        "pk_lugar": 77,
+        "localidad": "Tigre",
+        "provincia": "Buenos Aires",
+        "id_provincia": 6
+    },
+    {
+        "pk_lugar": 78,
+        "localidad": "Hurlingham",
+        "provincia": "Buenos Aires",
+        "id_provincia": 6
+    },
+    {
+        "pk_lugar": 79,
+        "localidad": "Olavarría",
+        "provincia": "Buenos Aires",
+        "id_provincia": 6
+    },
+    {
+        "pk_lugar": 80,
+        "localidad": "Nuñez",
+        "provincia": "Ciudad Autónoma de Buenos Aires",
+        "id_provincia": 2
+    },
+    {
+        "pk_lugar": 81,
+        "localidad": "San Fernando del Valle de Catamarca",
+        "provincia": "Catamarca",
+        "id_provincia": 10
+    },
+    {
+        "pk_lugar": 82,
+        "localidad": "Venado Tuerto",
+        "provincia": "Santa Fe",
+        "id_provincia": 82
+    },
+    {
+        "pk_lugar": 83,
+        "localidad": "Avellaneda",
+        "provincia": "Buenos Aires",
+        "id_provincia": 6
+    },
+    {
+        "pk_lugar": 84,
+        "localidad": "Maipú",
+        "provincia": "Buenos Aires",
+        "id_provincia": 6
+    },
+    {
+        "pk_lugar": 85,
+        "localidad": "Carapachay",
+        "provincia": "Buenos Aires",
+        "id_provincia": 6
+    },
+    {
+        "pk_lugar": 86,
+        "localidad": "Chacabuco",
+        "provincia": "Buenos Aires",
+        "id_provincia": 6
+    },
+    {
+        "pk_lugar": 87,
+        "localidad": "Florencio Varela",
+        "provincia": "Buenos Aires",
+        "id_provincia": 6
+    },
+    {
+        "pk_lugar": 88,
+        "localidad": "Floresta",
+        "provincia": "Ciudad Autónoma de Buenos Aires",
+        "id_provincia": 2
+    },
+    {
+        "pk_lugar": 89,
+        "localidad": "Oberá",
+        "provincia": "Misiones",
+        "id_provincia": 54
+    },
+    {
+        "pk_lugar": 90,
+        "localidad": "Coronel Suarez",
+        "provincia": "Buenos Aires",
+        "id_provincia": 6
+    },
+    {
+        "pk_lugar": 91,
+        "localidad": "San Carlos de Bariloche",
+        "provincia": "Río Negro",
+        "id_provincia": 62
+    },
+    {
+        "pk_lugar": 92,
+        "localidad": "General Mosconi",
+        "provincia": "Salta",
+        "id_provincia": 66
+    },
+    {
+        "pk_lugar": 93,
+        "localidad": "Lomas de Zamora",
+        "provincia": "Buenos Aires",
+        "id_provincia": 6
+    },
+    {
+        "pk_lugar": 94,
+        "localidad": "Tafí Viejo",
+        "provincia": "Tucumán",
+        "id_provincia": 90
+    }
+]

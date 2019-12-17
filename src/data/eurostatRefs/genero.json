@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "pk_genero": 1,
+      "SEX": "Males"
+    },
+    {
+      "pk_genero": 2,
+      "SEX": "Females"
+    }
+  ]
+}

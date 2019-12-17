@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "pk_edad": 1,
+      "AGE": "From 15 to 74 years"
+    },
+    {
+      "pk_edad": 2,
+      "AGE": "From 25 to 64 years"
+    }
+  ]
+}
