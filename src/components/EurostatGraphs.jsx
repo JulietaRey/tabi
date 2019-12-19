@@ -65,7 +65,7 @@ class Graphs extends Component {
                     <ResponsiveBar
                         colors={({ id, data }) => data[`${id}Color`]}
                         margin={{
-                            top: 60,
+                            top: 20,
                             right: 80,
                             bottom: 60,
                             left: 180,
@@ -80,7 +80,7 @@ class Graphs extends Component {
                         }}
                         groupMode={'grouped'}
                         width={1200}
-                        height={800}
+                        height={750}
                         layout={'horizontal'}
                         data={this.getDataToShow()}
                         indexBy={'name'}

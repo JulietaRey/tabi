@@ -37,23 +37,51 @@ class Root extends Component {
     render() {
         return (
             <Grid container>
-                <Grid item container xs={12}>
-                    <Grid item>
-                        <Typography variant={'h3'}>
+                <Grid
+                    item
+                    container
+                    xs={12}
+                    style={{
+                        background: 'rgb(29,183,196)',
+                        background:
+                            'linear-gradient(90deg, rgba(29,183,196,1) 0%, rgba(135,31,193,1) 40%, rgba(255,0,221,1) 100%)',
+                    }}
+                >
+                    <Grid item style={{ padding: '40px 20px' }}>
+                        <Typography variant={'h3'} style={{ color: 'white' }}>
                             Mujeres en Tecnología
                         </Typography>
                     </Grid>
                     <Grid item xs={12}>
                         <Tabs
+                            style={{
+                                background: '#ffffffab',
+                            }}
                             centered
                             variant={'fullWidth'}
                             onChange={this.changeTab}
                             value={this.state.currentTab}
                         >
-                            <Tab value={0} label={'CET'}></Tab>
-                            <Tab value={1} label={'111k'}></Tab>
-                            <Tab value={2} label={'MinCyT'}></Tab>
-                            <Tab value={3} label={'Eurostat'}></Tab>
+                            <Tab
+                                style={{ fontWeight: 'bold' }}
+                                value={0}
+                                label={'CET'}
+                            ></Tab>
+                            <Tab
+                                value={1}
+                                style={{ fontWeight: 'bold' }}
+                                label={'111k'}
+                            ></Tab>
+                            <Tab
+                                value={2}
+                                style={{ fontWeight: 'bold' }}
+                                label={'MinCyT'}
+                            ></Tab>
+                            <Tab
+                                value={3}
+                                style={{ fontWeight: 'bold' }}
+                                label={'Eurostat'}
+                            ></Tab>
                         </Tabs>
                     </Grid>
                 </Grid>

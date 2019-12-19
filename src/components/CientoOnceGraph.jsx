@@ -24,7 +24,7 @@ class Graphs extends Component {
                         margin={{ top: 60, right: 80, bottom: 60, left: 280 }}
                         value={'tot'}
                         width={1200}
-                        height={850}
+                        height={600}
                         data={this.getDataToShow()}
                         cornerRadius={2}
                         borderWidth={1}
@@ -40,18 +40,6 @@ class Graphs extends Component {
                     alignContent={'flex-start'}
                     alignItems={'flex-start'}
                 >
-                    <Grid item xs={12}>
-                        {/* <Button
-                            onClick={this.toggleProvincias}
-                            variant={'contained'}
-                            color={'primary'}
-                            fullWidth
-                        >
-                            {this.state.showProvincias
-                                ? 'Vista por genero'
-                                : 'Vista por provincias'}
-                        </Button> */}
-                    </Grid>
                 </Grid>
             </Grid>
         )
